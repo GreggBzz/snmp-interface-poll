@@ -53,5 +53,4 @@ port = 161
 
 ## Performance
 
-This collector gathers ~ 6000 SNMP metrics from ~ 700 interfaces in my environment in around 15 seconds. It should be run on suitable system with
-decent I/O performance. 
+This collector gathers ~ 6000 SNMP metrics from ~ 700 interfaces in my environment in around 15 seconds. It should be run on a suitable system with decent I/O performance. 
