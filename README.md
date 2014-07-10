@@ -14,7 +14,7 @@ This is an enhanced SNMP network interface collector that provides:
 
 ## Installation
 
-* You'll need an `/etc/diamond/collectors/SNMPInterfacePoll.d/' directory to drop the OID flat file into.
+* You'll need an `/etc/diamond/collectors/SNMPInterfacePoll.d/` directory to drop the OID flat file into.
 * On Ubuntu, place the collector directories and modules in `/usr/share/diamond/collectors/` as you would typically. 
 * You'll have to create two configuration files. On Ubuntu they live in `/etc/diamond/collectors/` 
 
