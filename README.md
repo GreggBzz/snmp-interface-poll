@@ -3,7 +3,7 @@
 This is an enhanced SNMP network interface collector that provides:
 
 * Faster, threaded collection, addressing [this issue.](https://github.com/BrightcoveOS/Diamond/issues/263)
-* Seperation of the discovery and polling phases to improve performance.
+* Separation of the discovery and polling phases to improve performance.
 * Discovery and collection of CPU metrics for Cisco and Cisco IOS-XE devices.
 * Discovery and collection of VLAN and Port Channel interfaces.
 
@@ -53,5 +53,5 @@ port = 161
 
 ## Performance
 
-This collector gathers ~ 6000 SNMP metrics from ~ 700 interfaces in my environment in around 15 seconds. It should be run on subtible system with
+This collector gathers ~ 6000 SNMP metrics from ~ 700 interfaces in my environment in around 15 seconds. It should be run on suitable system with
 decent I/O performance. 
