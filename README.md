@@ -12,7 +12,7 @@ This is an enhanced SNMP network interface collector that provides:
 * Requires a newer version of pysnmp. Tested on 4.2.5
 * Requires Python > 2.6.5. Tested on 2.6.5.
 
-## Instalation
+## Installation
 
 * You'll need an `/etc/diamond/collectors/SNMPInterfacePoll.d/' directory to drop the OID flat file into.
 * On Ubuntu, place the collector directories and modules in `/usr/share/diamond/collectors/` as you would typically. 
